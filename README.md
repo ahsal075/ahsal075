@@ -40,8 +40,8 @@ Forecasted emerging technology trends using NLP and time-series forecasting tech
 
 ### 📫 Connect with Me
 📧 [Email Me](mailto:ahsalnoushad075@gmail.com)  
-💼 [LinkedIn]http://www.linkedin.com/in/ahsal-noushad-882545243
-🌐 [Portfolio / GitHub]https://github.com/ahsal075
+💼 [LinkedIn](http://www.linkedin.com/in/ahsal-noushad-882545243)  
+🌐 [Portfolio / GitHub](https://github.com/ahsal075)
 
 ---
 
