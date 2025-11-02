@@ -1,48 +1,49 @@
-# 👋 Hi, I'm Ahsal Noushad!
+## 👋 Hi, I'm Ahsal Noushad!
 
 🎓 **B.Tech in Computer Science (2025 Passout)**  
+📊 **Data Science & Analytics graduate** from ICT Academy of Kerala (ICTAK)  
 💡 **Aspiring Data Scientist | AI/ML Enthusiast | Python Developer**
 
 ---
 
-### 🚀 About Me
-- Passionate about building intelligent systems that turn data into real-world insights.  
-- Completed the **Data Science & Analytics** course from **ICT Academy of Kerala (ICTAK)**.  
+### 🧠 About Me
+- Passionate about building intelligent systems that turn data into actionable insights.  
 - Skilled in **Python, SQL, Tableau, Power BI, Machine Learning, Deep Learning, and NLP**.  
 - Experienced in **EDA, feature engineering, predictive modeling, and data visualization**.  
-- Currently exploring **MLOps, Cloud Integration (AWS), and Generative AI**.
+- Currently exploring **MLOps, Cloud Integration (AWS), and Generative AI**.  
+- Always eager to collaborate on **open-source data projects** and **real-world problem solving**.
 
 ---
 
-### 🧠 Featured Projects
-#### 🧩 [Customer Churn Prediction](https://github.com/ahsal075/customer-churn-prediction)
-Built a machine learning model to predict telecom customer churn using classification algorithms and feature analysis.
+### 🚀 Featured Projects
+#### 🌀 [Customer Churn Prediction](#)
+Built a machine learning model to predict customer churn using classification algorithms and feature engineering.
 
-#### 💊 [Antidiabetics Adverse Event Predictor](https://github.com/ahsal075/antidiabetics-adverse-event-predictor)
-Developed a predictive system to identify adverse reactions from antidiabetic drugs using healthcare datasets.
+#### 💊 [Antidiabetic Adverse Event Predictor](#)
+Developed a predictive system to identify adverse drug reactions using healthcare datasets and ML models.
 
-#### 📈 [Tech Trend Forecaster](https://github.com/ahsal075/tech-trend-forecaster)
-Forecasted emerging technology trends using NLP and time-series forecasting techniques.
+#### 📈 [Tech Trend Forecaster](#)
+Forecasted emerging technology trends using **NLP and time-series forecasting**.
 
 ---
 
 ### 🛠️ Tech Stack
-`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `TensorFlow` • `Keras` • `SQL`  
-`Matplotlib` • `Seaborn` • `Tableau` • `Power BI` • `Git` • `Jupyter Notebook`
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `TensorFlow` • `Keras`  
+`SQL` • `Matplotlib` • `Seaborn` • `Power BI` • `Tableau` • `Git`
 
 ---
 
 ### 📊 GitHub Stats
-![Ahsal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsal075&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsal075&layout=compact&theme=tokyonight)
+![Ahsal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsal075&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsal075&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect with Me
-📧 [Email Me](mailto:ahsalnoushad075@gmail.com)  
-💼 [LinkedIn](http://www.linkedin.com/in/ahsal-noushad-882545243)  
-🌐 [Portfolio / GitHub](https://github.com/ahsal075)
+### 🌐 Connect With Me
+📧 [Email](mailto:ahsalnoushad075@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/ahsalnoushad)  
+🖥️ [Portfolio](#)
 
 ---
 
-⭐ *“The future belongs to those who turn data into decisions.”*
+> _“The future belongs to those who turn data into decisions.”_
